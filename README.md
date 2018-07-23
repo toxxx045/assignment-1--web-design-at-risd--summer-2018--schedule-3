@@ -55,7 +55,7 @@ Pay attention to image ratios, as these will inform your design. If need be, alt
 Make sure Atom continually reports `No errors were found!` in the lower left hand corner as you work. Solve validation issues as you work — don’t let them accumulate. That’s called technical debt. Avoid it!
 
 ## Due
-9:00 AM on Wednesday, 11 July 2018.
+9:00 AM on Wednesday, 25 July 2018.
 
 ## Submission
 You will need to issue a pull request back into the original repo, the one from which your fork was created. See the **Issuing Pull Requests** section of [this site](http://code-warrior.github.io/tutorials/git/github/index.html) for help on how to submit your assignment.
